@@ -599,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-07-19 21:03:15 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2018-07-18 13:34:09 +0300"
@@ -749,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2018-07-19 21:57:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2018-07-17 12:48:39 +0300"
@@ -823,6 +835,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2018-07-19 21:17:21 +0300",
       "skeleton": "2018-07-17 12:58:22 +0300",
       "husk": "2018-07-17 16:15:17 +0300",
       "zombie": "2018-07-17 12:50:10 +0300",
@@ -1131,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2018-07-19 21:57:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-07-13 15:36:07 +0300"
@@ -1260,6 +1279,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2018-07-17 15:57:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2018-07-19 21:57:32 +0300"
     },
     "done": true
   },
