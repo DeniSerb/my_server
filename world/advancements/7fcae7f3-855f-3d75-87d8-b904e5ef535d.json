@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2018-07-19 17:11:25 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2018-07-17 12:48:32 +0300"
@@ -314,6 +320,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2018-07-18 13:41:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-07-19 17:54:20 +0300"
     },
     "done": true
   },
@@ -348,6 +360,7 @@
       "bread": "2018-07-17 21:17:38 +0300",
       "rotten_flesh": "2018-07-17 19:50:07 +0300",
       "cooked_rabbit": "2018-07-17 13:55:56 +0300",
+      "cooked_chicken": "2018-07-19 17:55:19 +0300",
       "carrot": "2018-07-18 14:04:04 +0300"
     },
     "done": false
