@@ -1,126 +1,298 @@
-[08:48:47] [Server thread/INFO]: Loading properties
-[08:48:47] [Server thread/INFO]: Default game type: SURVIVAL
-[08:48:48] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[08:48:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:48:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:48:48] [Server thread/INFO]: Debug logging is disabled
-[08:48:49] [Server thread/INFO]: Generating keypair
-[08:48:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:48:49] [Server thread/INFO]: Using epoll channel type
-[08:48:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:48:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:48:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:48:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:48:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[08:48:49] [Server thread/INFO]: Preparing level "world"
-[08:48:49] [Server thread/INFO]: -------- World Settings For [world] --------
-[08:48:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:48:49] [Server thread/INFO]: Mob Spawn Range: 4
-[08:48:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[08:48:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[08:48:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[08:48:49] [Server thread/INFO]: Random Lighting Updates: false
-[08:48:49] [Server thread/INFO]: Structure Info Saving: true
-[08:48:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[08:48:49] [Server thread/INFO]: Max TNT Explosions: 100
-[08:48:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:48:49] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:48:49] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:48:49] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[08:48:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:48:49] [Server thread/INFO]: View Distance: 10
-[08:48:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:48:49] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:48:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:48:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[08:48:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Mob Spawn Range: 4
-[08:48:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[08:48:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[08:48:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[08:48:50] [Server thread/INFO]: Random Lighting Updates: false
-[08:48:50] [Server thread/INFO]: Structure Info Saving: true
-[08:48:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[08:48:50] [Server thread/INFO]: Max TNT Explosions: 100
-[08:48:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:48:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:48:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:48:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[08:48:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:48:50] [Server thread/INFO]: View Distance: 10
-[08:48:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:48:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:48:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:48:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[08:48:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[08:48:50] [Server thread/INFO]: Mob Spawn Range: 4
-[08:48:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[08:48:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[08:48:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[08:48:50] [Server thread/INFO]: Random Lighting Updates: false
-[08:48:50] [Server thread/INFO]: Structure Info Saving: true
-[08:48:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[08:48:50] [Server thread/INFO]: Max TNT Explosions: 100
-[08:48:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[08:48:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[08:48:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[08:48:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[08:48:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[08:48:50] [Server thread/INFO]: View Distance: 10
-[08:48:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[08:48:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[08:48:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[08:48:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1053390231284090450)
-[08:48:51] [Server thread/INFO]: Preparing spawn area: 4%
-[08:48:52] [Server thread/INFO]: Preparing spawn area: 24%
-[08:48:53] [Server thread/INFO]: Preparing spawn area: 79%
-[08:48:53] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1053390231284090450)
-[08:48:54] [Server thread/INFO]: Preparing spawn area: 77%
-[08:48:54] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1053390231284090450)
-[08:48:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:48:55] [Server thread/INFO]: Done (5.575s)! For help, type "help" or "?"
-[08:54:18] [User Authenticator #1/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
-[08:54:19] [Server thread/INFO]: Azis813[/25.41.40.55:45652] logged in with entity id 133 at ([world]3707.0526340316474, 76.0, 691.835761899964)
-[09:05:02] [Server thread/INFO]: Azis813 has made the advancement [Ice Bucket Challenge]
-[09:15:38] [Server thread/INFO]: Azis813 issued server command: /set time day
-[09:16:35] [Server thread/INFO]: Azis813 issued server command: //
-[09:26:41] [Server thread/INFO]: Azis813 has made the advancement [We Need to Go Deeper]
-[09:39:40] [Server thread/INFO]: Azis813 issued server command: /help
-[09:49:51] [Server thread/WARN]: Azis813 moved too quickly! 3.7761385603175768,9.132716047047964,2.0855015334459495
-[09:50:21] [Server thread/INFO]: Azis813 lost connection: Disconnected
-[09:50:22] [Server thread/INFO]: Azis813 left the game
-[09:50:35] [User Authenticator #2/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
-[09:50:38] [Server thread/INFO]: Azis813[/25.41.40.55:45814] logged in with entity id 9926 at ([world]3773.5411230892837, 97.0, 694.5965164614709)
-[10:10:13] [Server thread/INFO]: Azis813 lost connection: Disconnected
-[10:10:14] [Server thread/INFO]: Azis813 left the game
-[10:10:30] [Thread-3/INFO]: Stopping server
-[10:10:30] [Thread-3/INFO]: Saving players
-[10:10:30] [Thread-3/INFO]: Saving worlds
-[10:10:30] [Thread-3/INFO]: Saving chunks for level 'world'/overworld
+[11:51:30] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:51:30] [Server thread/INFO]: Loading properties
+[11:51:30] [Server thread/INFO]: Default game type: SURVIVAL
+[11:51:30] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[11:51:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:51:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:51:31] [Server thread/INFO]: Debug logging is disabled
+[11:51:31] [Server thread/INFO]: Generating keypair
+[11:51:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:51:31] [Server thread/INFO]: Using epoll channel type
+[11:51:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:51:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:51:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:51:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:51:32] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:51:32] [Server thread/INFO]: Preparing level "world"
+[11:51:32] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:51:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:32] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:32] [Server thread/INFO]: Structure Info Saving: true
+[11:51:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:32] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:32] [Server thread/INFO]: View Distance: 10
+[11:51:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:51:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:32] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:32] [Server thread/INFO]: Structure Info Saving: true
+[11:51:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:32] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:32] [Server thread/INFO]: View Distance: 10
+[11:51:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:51:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:51:32] [Server thread/INFO]: Mob Spawn Range: 4
+[11:51:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[11:51:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:51:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:51:32] [Server thread/INFO]: Random Lighting Updates: false
+[11:51:32] [Server thread/INFO]: Structure Info Saving: true
+[11:51:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[11:51:32] [Server thread/INFO]: Max TNT Explosions: 100
+[11:51:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:51:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:51:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:51:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:51:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:51:32] [Server thread/INFO]: View Distance: 10
+[11:51:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:51:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:51:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:51:32] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1053390231284090450)
+[11:51:33] [Server thread/INFO]: Preparing spawn area: 9%
+[11:51:34] [Server thread/INFO]: Preparing spawn area: 97%
+[11:51:34] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1053390231284090450)
+[11:51:35] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1053390231284090450)
+[11:51:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:51:35] [Server thread/INFO]: Done (3.559s)! For help, type "help" or "?"
+[11:55:46] [User Authenticator #1/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
+[11:55:46] [Server thread/INFO]: Azis813[/25.41.40.55:46712] logged in with entity id 139 at ([world]3774.5467495183257, 97.0, 694.8401473135731)
+[11:58:10] [Server thread/INFO]: Azis813 issued server command: /god
+[11:58:23] [Server thread/INFO]: Azis813 issued server command: /god
+[11:58:40] [Server thread/INFO]: Azis813 issued server command: /feed
+[11:58:44] [Server thread/INFO]: Azis813 issued server command: //feed
+[11:58:50] [Server thread/INFO]: Azis813 issued server command: /help
+[12:00:19] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[12:00:19] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[12:00:24] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[12:00:24] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[12:00:26] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[12:00:26] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[12:01:23] [Server thread/INFO]: Azis813 issued server command: /give Azis813 coal 64
+[12:01:23] [Server thread/INFO]: [Azis813: Given [Coal] * 64 to Azis813]
+[12:01:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 coal 64
+[12:01:32] [Server thread/INFO]: [Azis813: Given [Coal] * 64 to Azis813]
+[12:02:03] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Block of
+[12:02:03] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:block]
+[12:02:22] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Block of Quartz 64
+[12:02:22] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:block]
+[12:02:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 BlockofQuartz 64
+[12:02:30] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:blockofquartz]
+[12:02:40] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Block_of_Quartz 64
+[12:02:40] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:block_of_quartz]
+[12:02:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:02:54] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:03:10] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:03:10] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:04:01] [Server thread/INFO]: Azis813 lost connection: Disconnected
+[12:04:02] [Server thread/INFO]: Azis813 left the game
+[12:04:17] [User Authenticator #2/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
+[12:04:17] [Server thread/INFO]: Azis813[/25.41.40.55:46978] logged in with entity id 813 at ([world]3774.547274160989, 97.0, 696.0243678069884)
+[12:05:25] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[12:05:25] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[12:11:16] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:11:16] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:16:31] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:16:31] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:16:36] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[12:16:36] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[12:18:57] [Server thread/INFO]: Azis813 issued server command: /give Azis813 diorite 64
+[12:18:57] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:diorite]
+[12:19:11] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Diorite 64
+[12:19:11] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:diorite]
+[12:19:15] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Diorite 64
+[12:19:15] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:diorite]
+[12:19:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Granite 64
+[12:19:32] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:granite]
+[12:19:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 oak 64
+[12:19:54] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
+[12:20:01] [Server thread/INFO]: Azis813 issued server command: /give Azis813 oak wood 13
+[12:20:01] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
+[12:20:09] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Granite 64
+[12:20:09] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:granite]
+[12:20:17] [Server thread/INFO]: Azis813 issued server command: /give Azis813
+[12:20:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:20:33] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:21:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:21:58] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:22:43] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:22:43] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:23:48] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:23:48] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:24:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:24:33] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:25:45] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:25:45] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:26:24] [Server thread/INFO]: Azis813 issued server command: /
+[12:26:27] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:26:27] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:26:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:26:30] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:27:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:27:33] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:28:19] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:28:19] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:28:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
+[12:28:54] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
+[12:31:29] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:31:29] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:32:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:32:32] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:34:08] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
+[12:34:08] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
+[12:34:18] [Server thread/INFO]: Azis813 issued server command: /
+[12:34:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 OakWood
+[12:34:33] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oakwood]
+[12:34:40] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak Wood
+[12:34:40] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
+[12:34:50] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Wood
+[12:34:50] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:wood]
+[12:35:05] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Glass 64
+[12:35:05] [Server thread/INFO]: [Azis813: Given [Glass] * 64 to Azis813]
+[12:43:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Dynamite 64
+[12:43:58] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:dynamite]
+[12:44:21] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak Wood 64
+[12:44:21] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
+[12:44:34] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak.Wood 64
+[12:44:34] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak.wood]
+[12:45:00] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wood 64 oak
+[12:45:00] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:wood]
+[12:45:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 gold 64
+[12:45:54] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:gold]
+[12:49:13] [Server thread/INFO]: Azis813 issued server command: /give Azis813 17 64
+[12:49:13] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:17]
+[12:49:22] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak Wood 64
+[12:49:22] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
+[12:50:00] [Server thread/INFO]: Azis813 issued server command: /give Azis813 oak_log 64
+[12:50:00] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak_log]
+[12:50:21] [Server thread/INFO]: Azis813 issued server command: /give Azis813 log 64
+[12:50:21] [Server thread/INFO]: [Azis813: Given [Oak Wood] * 64 to Azis813]
+[12:56:28] [Server thread/WARN]: Azis813 moved too quickly! -0.20834835353616654,6.5,7.668906629347248
+[12:59:05] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[12:59:05] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[13:00:15] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[13:00:15] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[13:01:25] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[13:01:25] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[13:02:21] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[13:02:21] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[13:03:58] [Server thread/INFO]: Azis813 fell from a high place
+[13:06:15] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
+[13:06:15] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
+[13:08:37] [Server thread/INFO]: Azis813 issued server command: /give Azis813 log 64
+[13:08:37] [Server thread/INFO]: [Azis813: Given [Oak Wood] * 64 to Azis813]
+[13:10:37] [Server thread/INFO]: Azis813 issued server command: /give Azis813 glass 64
+[13:10:37] [Server thread/INFO]: [Azis813: Given [Glass] * 64 to Azis813]
+[13:19:14] [Server thread/INFO]: Azis813 issued server command: /give Azis813 clay 64
+[13:19:14] [Server thread/INFO]: [Azis813: Given [Clay] * 64 to Azis813]
+[13:21:12] [Server thread/INFO]: Azis813 issued server command: /give Azis813 clay 64
+[13:21:12] [Server thread/INFO]: [Azis813: Given [Clay] * 64 to Azis813]
+[13:21:55] [Server thread/INFO]: Azis813 issued server command: /give Azis813 clay 64
+[13:21:55] [Server thread/INFO]: [Azis813: Given [Clay] * 64 to Azis813]
+[13:22:55] [Server thread/INFO]: Azis813 issued server command: /give Azis813 hay_bale 64
+[13:22:55] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:hay_bale]
+[13:23:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 weat 64
+[13:23:30] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:weat]
+[13:23:38] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:23:38] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:23:40] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:23:40] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:23:41] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:23:41] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:23:44] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:23:44] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:26:27] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:26:27] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:26:29] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:26:29] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:26:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:26:30] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:26:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:26:32] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:26:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
+[13:26:33] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
+[13:35:35] [Server thread/INFO]: Azis813 issued server command: /give Azis813 coal 64
+[13:35:35] [Server thread/INFO]: [Azis813: Given [Coal] * 64 to Azis813]
+[13:37:28] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:37:28] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:41:04] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:41:04] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:42:57] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:42:57] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:50:17] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:50:17] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:51:12] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:51:12] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:51:48] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:51:48] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:52:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:52:58] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:53:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:53:34] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:54:10] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:54:10] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:54:57] [Server thread/INFO]: Azis813 was blown up by Azis813
+[13:56:10] [Server thread/WARN]: Azis813 moved too quickly! -1.156428103394319,-5.798314394984175,8.103107720802996
+[13:56:50] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:56:50] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:58:00] [Server thread/INFO]: Azis813 tried to swim in lava
+[13:58:05] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
+[13:58:05] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
+[13:58:20] [Server thread/INFO]: Azis813 issued server command: /give Azis813 diamond 14
+[13:58:20] [Server thread/INFO]: [Azis813: Given [Diamond] * 14 to Azis813]
+[13:59:18] [Server thread/INFO]: Azis813 lost connection: Disconnected
+[13:59:19] [Server thread/INFO]: Azis813 left the game
+[14:01:07] [Thread-3/INFO]: Stopping server
+[14:01:08] [Thread-3/INFO]: Saving players
+[14:01:08] [Thread-3/INFO]: Saving worlds
+[14:01:08] [Thread-3/INFO]: Saving chunks for level 'world'/overworld
