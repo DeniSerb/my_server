@@ -1,298 +1,675 @@
-[11:51:30] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[11:51:30] [Server thread/INFO]: Loading properties
-[11:51:30] [Server thread/INFO]: Default game type: SURVIVAL
-[11:51:30] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[11:51:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:51:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:51:31] [Server thread/INFO]: Debug logging is disabled
-[11:51:31] [Server thread/INFO]: Generating keypair
-[11:51:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:51:31] [Server thread/INFO]: Using epoll channel type
-[11:51:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:51:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:51:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:51:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:51:32] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[11:51:32] [Server thread/INFO]: Preparing level "world"
-[11:51:32] [Server thread/INFO]: -------- World Settings For [world] --------
-[11:51:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Mob Spawn Range: 4
-[11:51:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[11:51:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:51:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[11:51:32] [Server thread/INFO]: Random Lighting Updates: false
-[11:51:32] [Server thread/INFO]: Structure Info Saving: true
-[11:51:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[11:51:32] [Server thread/INFO]: Max TNT Explosions: 100
-[11:51:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:51:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:51:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:51:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:51:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:51:32] [Server thread/INFO]: View Distance: 10
-[11:51:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:51:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:51:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:51:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[11:51:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Mob Spawn Range: 4
-[11:51:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[11:51:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:51:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[11:51:32] [Server thread/INFO]: Random Lighting Updates: false
-[11:51:32] [Server thread/INFO]: Structure Info Saving: true
-[11:51:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[11:51:32] [Server thread/INFO]: Max TNT Explosions: 100
-[11:51:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:51:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:51:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:51:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:51:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:51:32] [Server thread/INFO]: View Distance: 10
-[11:51:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:51:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:51:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:51:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[11:51:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[11:51:32] [Server thread/INFO]: Mob Spawn Range: 4
-[11:51:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[11:51:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:51:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[11:51:32] [Server thread/INFO]: Random Lighting Updates: false
-[11:51:32] [Server thread/INFO]: Structure Info Saving: true
-[11:51:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[11:51:32] [Server thread/INFO]: Max TNT Explosions: 100
-[11:51:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:51:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:51:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:51:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[11:51:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:51:32] [Server thread/INFO]: View Distance: 10
-[11:51:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:51:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:51:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:51:32] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1053390231284090450)
-[11:51:33] [Server thread/INFO]: Preparing spawn area: 9%
-[11:51:34] [Server thread/INFO]: Preparing spawn area: 97%
-[11:51:34] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1053390231284090450)
-[11:51:35] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1053390231284090450)
-[11:51:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:51:35] [Server thread/INFO]: Done (3.559s)! For help, type "help" or "?"
-[11:55:46] [User Authenticator #1/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
-[11:55:46] [Server thread/INFO]: Azis813[/25.41.40.55:46712] logged in with entity id 139 at ([world]3774.5467495183257, 97.0, 694.8401473135731)
-[11:58:10] [Server thread/INFO]: Azis813 issued server command: /god
-[11:58:23] [Server thread/INFO]: Azis813 issued server command: /god
-[11:58:40] [Server thread/INFO]: Azis813 issued server command: /feed
-[11:58:44] [Server thread/INFO]: Azis813 issued server command: //feed
-[11:58:50] [Server thread/INFO]: Azis813 issued server command: /help
-[12:00:19] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[12:00:19] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[12:00:24] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[12:00:24] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[12:00:26] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[12:00:26] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[12:01:23] [Server thread/INFO]: Azis813 issued server command: /give Azis813 coal 64
-[12:01:23] [Server thread/INFO]: [Azis813: Given [Coal] * 64 to Azis813]
-[12:01:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 coal 64
-[12:01:32] [Server thread/INFO]: [Azis813: Given [Coal] * 64 to Azis813]
-[12:02:03] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Block of
-[12:02:03] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:block]
-[12:02:22] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Block of Quartz 64
-[12:02:22] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:block]
-[12:02:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 BlockofQuartz 64
-[12:02:30] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:blockofquartz]
-[12:02:40] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Block_of_Quartz 64
-[12:02:40] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:block_of_quartz]
-[12:02:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:02:54] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:03:10] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:03:10] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:04:01] [Server thread/INFO]: Azis813 lost connection: Disconnected
-[12:04:02] [Server thread/INFO]: Azis813 left the game
-[12:04:17] [User Authenticator #2/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
-[12:04:17] [Server thread/INFO]: Azis813[/25.41.40.55:46978] logged in with entity id 813 at ([world]3774.547274160989, 97.0, 696.0243678069884)
-[12:05:25] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[12:05:25] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[12:11:16] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:11:16] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:16:31] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:16:31] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:16:36] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[12:16:36] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[12:18:57] [Server thread/INFO]: Azis813 issued server command: /give Azis813 diorite 64
-[12:18:57] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:diorite]
-[12:19:11] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Diorite 64
-[12:19:11] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:diorite]
-[12:19:15] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Diorite 64
-[12:19:15] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:diorite]
-[12:19:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Granite 64
-[12:19:32] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:granite]
-[12:19:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 oak 64
-[12:19:54] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
-[12:20:01] [Server thread/INFO]: Azis813 issued server command: /give Azis813 oak wood 13
-[12:20:01] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
-[12:20:09] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Granite 64
-[12:20:09] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:granite]
-[12:20:17] [Server thread/INFO]: Azis813 issued server command: /give Azis813
-[12:20:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:20:33] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:21:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:21:58] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:22:43] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:22:43] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:23:48] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:23:48] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:24:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:24:33] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:25:45] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:25:45] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:26:24] [Server thread/INFO]: Azis813 issued server command: /
-[12:26:27] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:26:27] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:26:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:26:30] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:27:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:27:33] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:28:19] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:28:19] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:28:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Quartz 64
-[12:28:54] [Server thread/INFO]: [Azis813: Given [Nether Quartz] * 64 to Azis813]
-[12:31:29] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:31:29] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:32:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:32:32] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:34:08] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Sandstone 64
-[12:34:08] [Server thread/INFO]: [Azis813: Given [Sandstone] * 64 to Azis813]
-[12:34:18] [Server thread/INFO]: Azis813 issued server command: /
-[12:34:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 OakWood
-[12:34:33] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oakwood]
-[12:34:40] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak Wood
-[12:34:40] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
-[12:34:50] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Wood
-[12:34:50] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:wood]
-[12:35:05] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Glass 64
-[12:35:05] [Server thread/INFO]: [Azis813: Given [Glass] * 64 to Azis813]
-[12:43:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Dynamite 64
-[12:43:58] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:dynamite]
-[12:44:21] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak Wood 64
-[12:44:21] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
-[12:44:34] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak.Wood 64
-[12:44:34] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak.wood]
-[12:45:00] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wood 64 oak
-[12:45:00] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:wood]
-[12:45:54] [Server thread/INFO]: Azis813 issued server command: /give Azis813 gold 64
-[12:45:54] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:gold]
-[12:49:13] [Server thread/INFO]: Azis813 issued server command: /give Azis813 17 64
-[12:49:13] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:17]
-[12:49:22] [Server thread/INFO]: Azis813 issued server command: /give Azis813 Oak Wood 64
-[12:49:22] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak]
-[12:50:00] [Server thread/INFO]: Azis813 issued server command: /give Azis813 oak_log 64
-[12:50:00] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:oak_log]
-[12:50:21] [Server thread/INFO]: Azis813 issued server command: /give Azis813 log 64
-[12:50:21] [Server thread/INFO]: [Azis813: Given [Oak Wood] * 64 to Azis813]
-[12:56:28] [Server thread/WARN]: Azis813 moved too quickly! -0.20834835353616654,6.5,7.668906629347248
-[12:59:05] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[12:59:05] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[13:00:15] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[13:00:15] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[13:01:25] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[13:01:25] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[13:02:21] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[13:02:21] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[13:03:58] [Server thread/INFO]: Azis813 fell from a high place
-[13:06:15] [Server thread/INFO]: Azis813 issued server command: /give Azis813 cobblestone 64
-[13:06:15] [Server thread/INFO]: [Azis813: Given [Cobblestone] * 64 to Azis813]
-[13:08:37] [Server thread/INFO]: Azis813 issued server command: /give Azis813 log 64
-[13:08:37] [Server thread/INFO]: [Azis813: Given [Oak Wood] * 64 to Azis813]
-[13:10:37] [Server thread/INFO]: Azis813 issued server command: /give Azis813 glass 64
-[13:10:37] [Server thread/INFO]: [Azis813: Given [Glass] * 64 to Azis813]
-[13:19:14] [Server thread/INFO]: Azis813 issued server command: /give Azis813 clay 64
-[13:19:14] [Server thread/INFO]: [Azis813: Given [Clay] * 64 to Azis813]
-[13:21:12] [Server thread/INFO]: Azis813 issued server command: /give Azis813 clay 64
-[13:21:12] [Server thread/INFO]: [Azis813: Given [Clay] * 64 to Azis813]
-[13:21:55] [Server thread/INFO]: Azis813 issued server command: /give Azis813 clay 64
-[13:21:55] [Server thread/INFO]: [Azis813: Given [Clay] * 64 to Azis813]
-[13:22:55] [Server thread/INFO]: Azis813 issued server command: /give Azis813 hay_bale 64
-[13:22:55] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:hay_bale]
-[13:23:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 weat 64
-[13:23:30] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:weat]
-[13:23:38] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:23:38] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:23:40] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:23:40] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:23:41] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:23:41] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:23:44] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:23:44] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:26:27] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:26:27] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:26:29] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:26:29] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:26:30] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:26:30] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:26:32] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:26:32] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:26:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 wheat 64
-[13:26:33] [Server thread/INFO]: [Azis813: Given [Wheat] * 64 to Azis813]
-[13:35:35] [Server thread/INFO]: Azis813 issued server command: /give Azis813 coal 64
-[13:35:35] [Server thread/INFO]: [Azis813: Given [Coal] * 64 to Azis813]
-[13:37:28] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:37:28] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:41:04] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:41:04] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:42:57] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:42:57] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:50:17] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:50:17] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:51:12] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:51:12] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:51:48] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:51:48] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:52:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:52:58] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:53:33] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:53:34] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:54:10] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:54:10] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:54:57] [Server thread/INFO]: Azis813 was blown up by Azis813
-[13:56:10] [Server thread/WARN]: Azis813 moved too quickly! -1.156428103394319,-5.798314394984175,8.103107720802996
-[13:56:50] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:56:50] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:58:00] [Server thread/INFO]: Azis813 tried to swim in lava
-[13:58:05] [Server thread/INFO]: Azis813 issued server command: /give Azis813 TNT 64
-[13:58:05] [Server thread/INFO]: [Azis813: Given [TNT] * 64 to Azis813]
-[13:58:20] [Server thread/INFO]: Azis813 issued server command: /give Azis813 diamond 14
-[13:58:20] [Server thread/INFO]: [Azis813: Given [Diamond] * 14 to Azis813]
-[13:59:18] [Server thread/INFO]: Azis813 lost connection: Disconnected
-[13:59:19] [Server thread/INFO]: Azis813 left the game
-[14:01:07] [Thread-3/INFO]: Stopping server
-[14:01:08] [Thread-3/INFO]: Saving players
-[14:01:08] [Thread-3/INFO]: Saving worlds
-[14:01:08] [Thread-3/INFO]: Saving chunks for level 'world'/overworld
+[14:34:50] [Server thread/INFO]: Loading properties
+[14:34:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:34:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[14:34:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:34:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:34:50] [Server thread/INFO]: Debug logging is disabled
+[14:34:50] [Server thread/INFO]: Generating keypair
+[14:34:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:34:51] [Server thread/INFO]: Using epoll channel type
+[14:34:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:34:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:34:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:34:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:34:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:34:51] [Server thread/INFO]: Preparing level "world"
+[14:34:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:34:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:34:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:34:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:34:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:34:51] [Server thread/INFO]: Random Lighting Updates: false
+[14:34:51] [Server thread/INFO]: Structure Info Saving: true
+[14:34:51] [Server thread/INFO]: Mob Spawn Range: 4
+[14:34:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:34:51] [Server thread/INFO]: Max TNT Explosions: 100
+[14:34:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:34:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:34:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:34:51] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:34:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:34:51] [Server thread/INFO]: View Distance: 10
+[14:34:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:34:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:34:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:34:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:34:52] [Server thread/INFO]: Random Lighting Updates: false
+[14:34:52] [Server thread/INFO]: Structure Info Saving: true
+[14:34:52] [Server thread/INFO]: Mob Spawn Range: 4
+[14:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[14:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:34:52] [Server thread/INFO]: View Distance: 10
+[14:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:34:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:34:52] [Server thread/INFO]: Random Lighting Updates: false
+[14:34:52] [Server thread/INFO]: Structure Info Saving: true
+[14:34:52] [Server thread/INFO]: Mob Spawn Range: 4
+[14:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[14:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:34:52] [Server thread/INFO]: View Distance: 10
+[14:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:34:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1053390231284090450)
+[14:34:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:34:55] [Server thread/INFO]: Preparing spawn area: 1%
+[14:34:56] [Server thread/INFO]: Preparing spawn area: 5%
+[14:34:57] [Server thread/INFO]: Preparing spawn area: 12%
+[14:34:58] [Server thread/INFO]: Preparing spawn area: 18%
+[14:34:59] [Server thread/INFO]: Preparing spawn area: 29%
+[14:35:00] [Server thread/INFO]: Preparing spawn area: 36%
+[14:35:01] [Server thread/INFO]: Preparing spawn area: 43%
+[14:35:02] [Server thread/INFO]: Preparing spawn area: 56%
+[14:35:03] [Server thread/INFO]: Preparing spawn area: 75%
+[14:35:04] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1053390231284090450)
+[14:35:05] [Server thread/INFO]: Preparing spawn area: 2%
+[14:35:06] [Server thread/INFO]: Preparing spawn area: 8%
+[14:35:07] [Server thread/INFO]: Preparing spawn area: 17%
+[14:35:08] [Server thread/INFO]: Preparing spawn area: 25%
+[14:35:09] [Server thread/INFO]: Preparing spawn area: 48%
+[14:35:10] [Server thread/INFO]: Preparing spawn area: 68%
+[14:35:11] [Server thread/INFO]: Preparing spawn area: 77%
+[14:35:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1053390231284090450)
+[14:35:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:35:12] [Server thread/INFO]: Done (21.039s)! For help, type "help" or "?"
+[14:36:21] [User Authenticator #1/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
+[14:36:23] [Server thread/INFO]: Azis813[/25.41.40.55:32782] logged in with entity id 137 at ([world]3774.500921750256, 97.0, 695.0586633509224)
+[14:36:41] [User Authenticator #2/INFO]: UUID of player Wanderwoodsss is b4318916-4499-373d-948c-1c19c659f3c4
+[14:36:42] [Server thread/INFO]: Wanderwoodsss[/25.41.1.133:58300] logged in with entity id 380 at ([world]3739.7530411396583, 99.0, 634.1079618611154)
+[14:36:47] [Server thread/INFO]: Wanderwoodsss lost connection: Disconnected
+[14:36:47] [Server thread/INFO]: Wanderwoodsss left the game
+[14:37:03] [User Authenticator #3/INFO]: UUID of player Wanderwoodsss is b4318916-4499-373d-948c-1c19c659f3c4
+[14:37:03] [Server thread/INFO]: Wanderwoodsss[/25.41.1.133:58304] logged in with entity id 589 at ([world]3739.7530411396583, 99.0, 634.1079618611154)
+[14:39:48] [Async Chat Thread - #0/INFO]: <Wanderwoodsss> tp azis813 wanderwoodsss[m
+[14:39:53] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[14:39:53] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[14:43:43] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[14:43:43] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[14:44:20] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[14:44:20] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[14:45:06] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[14:45:06] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[14:45:37] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss sadle
+[14:45:37] [Server thread/INFO]: [Wanderwoodsss: There is no such item with name minecraft:sadle]
+[14:45:40] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss sudle
+[14:45:40] [Server thread/INFO]: [Wanderwoodsss: There is no such item with name minecraft:sudle]
+[14:45:52] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss sudle
+[14:45:52] [Server thread/INFO]: [Wanderwoodsss: There is no such item with name minecraft:sudle]
+[14:47:24] [Server thread/INFO]: Azis813 issued server command: /give Azise813 saddle 1
+[14:47:24] [Server thread/INFO]: [Azis813: Player 'Azise813' cannot be found]
+[14:47:34] [Server thread/INFO]: Azis813 issued server command: /give Azise813 seaddle 1
+[14:47:34] [Server thread/INFO]: [Azis813: Player 'Azise813' cannot be found]
+[14:47:46] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss saddle
+[14:47:46] [Server thread/INFO]: [Wanderwoodsss: Given [Saddle] * 1 to Wanderwoodsss]
+[14:47:59] [Server thread/INFO]: Azis813 issued server command: /give Azis813 saddle 1
+[14:47:59] [Server thread/INFO]: [Azis813: Given [Saddle] * 1 to Azis813]
+[14:48:22] [Server thread/INFO]: Wanderwoodsss issued server command: /weather
+[14:48:31] [Server thread/INFO]: Wanderwoodsss issued server command: /weather rain
+[14:48:31] [Server thread/INFO]: [Wanderwoodsss: Changing to rainy weather]
+[14:48:43] [Server thread/INFO]: Wanderwoodsss issued server command: /time day
+[14:48:50] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[14:48:50] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[14:51:43] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[14:51:43] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[14:52:27] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[14:52:27] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[14:53:02] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[14:53:02] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[14:58:31] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[14:58:31] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:01:49] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[15:01:49] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:04:50] [Server thread/INFO]: Wanderwoodsss has made the advancement [Not Today, Thank You]
+[15:06:09] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[15:06:09] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[15:06:19] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[15:06:19] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:06:52] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[15:06:52] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[15:07:10] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[15:07:10] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:09:47] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[15:09:47] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:10:36] [Server thread/WARN]: Horse moved wrongly!
+[15:10:36] [Server thread/WARN]: Horse moved wrongly!
+[15:10:37] [Server thread/WARN]: Horse moved wrongly!
+[15:10:38] [Server thread/WARN]: Horse moved wrongly!
+[15:10:38] [Server thread/WARN]: Horse moved wrongly!
+[15:10:38] [Server thread/WARN]: Horse moved wrongly!
+[15:10:38] [Server thread/WARN]: Horse moved wrongly!
+[15:10:38] [Server thread/WARN]: Horse moved wrongly!
+[15:10:39] [Server thread/WARN]: Horse moved wrongly!
+[15:10:39] [Server thread/WARN]: Horse moved wrongly!
+[15:10:47] [Server thread/WARN]: Horse moved wrongly!
+[15:14:24] [Server thread/WARN]: Horse moved wrongly!
+[15:14:24] [Server thread/WARN]: Horse moved wrongly!
+[15:18:38] [Server thread/WARN]: Azis813 moved wrongly!
+[15:18:41] [Server thread/WARN]: Azis813 moved wrongly!
+[15:18:43] [Server thread/WARN]: Azis813 moved wrongly!
+[15:18:54] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[15:18:54] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[15:20:01] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[15:20:01] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:22:06] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[15:22:06] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[15:22:52] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[15:22:52] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[15:23:32] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[15:23:32] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[15:23:57] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[15:23:57] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[15:27:54] [Server thread/INFO]: Wanderwoodsss has made the advancement [We Need to Go Deeper]
+[15:28:09] [Server thread/INFO]: Azis813 has made the advancement [Not Today, Thank You]
+[15:29:38] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss obsidian
+[15:29:38] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 1 to Wanderwoodsss]
+[15:30:07] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss obsidian
+[15:30:07] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 1 to Wanderwoodsss]
+[15:30:08] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss obsidian
+[15:30:08] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 1 to Wanderwoodsss]
+[15:30:09] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss obsidian
+[15:30:09] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 1 to Wanderwoodsss]
+[15:30:27] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss obsidian 5
+[15:30:27] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 5 to Wanderwoodsss]
+[15:30:33] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss obsidian 20
+[15:30:33] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 20 to Wanderwoodsss]
+[15:30:47] [Server thread/INFO]: Wanderwoodsss issued server command: /give azis813 obsidian 20
+[15:30:47] [Server thread/INFO]: [Wanderwoodsss: Given [Obsidian] * 20 to Azis813]
+[15:31:09] [Server thread/INFO]: Wanderwoodsss issued server command: /give azis813 flint and steel
+[15:31:09] [Server thread/INFO]: [Wanderwoodsss: 'and' is not a valid number]
+[15:31:19] [Server thread/INFO]: Wanderwoodsss issued server command: /give azis813 flint_and_steel
+[15:31:19] [Server thread/INFO]: [Wanderwoodsss: Given [Flint and Steel] * 1 to Azis813]
+[15:43:23] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[15:43:23] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[15:52:09] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[15:52:09] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[15:53:30] [Server thread/INFO]: Azis813 has made the advancement [A Terrible Fortress]
+[15:53:36] [Server thread/INFO]: Wanderwoodsss has made the advancement [A Terrible Fortress]
+[15:57:37] [Server thread/INFO]: Wanderwoodsss has made the advancement [Into Fire]
+[15:57:53] [Server thread/INFO]: Azis813 tried to swim in lava
+[15:58:24] [Server thread/INFO]: Azis813 issued server command: /give Azis813 diamond 64
+[15:58:24] [Server thread/INFO]: [Azis813: Given [Diamond] * 64 to Azis813]
+[15:58:58] [Server thread/INFO]: Azis813 issued server command: /give Azis813 log 64
+[15:58:58] [Server thread/INFO]: [Azis813: Given [Oak Wood] * 64 to Azis813]
+[15:59:22] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss oak_wood
+[15:59:22] [Server thread/INFO]: [Wanderwoodsss: There is no such item with name minecraft:oak_wood]
+[15:59:32] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss Oak_Wood
+[15:59:32] [Server thread/INFO]: [Wanderwoodsss: There is no such item with name minecraft:oak_wood]
+[15:59:44] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss log
+[15:59:44] [Server thread/INFO]: [Wanderwoodsss: Given [Oak Wood] * 1 to Wanderwoodsss]
+[15:59:48] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss log 20
+[15:59:48] [Server thread/INFO]: [Wanderwoodsss: Given [Oak Wood] * 20 to Wanderwoodsss]
+[16:00:09] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss diamond 20
+[16:00:09] [Server thread/INFO]: [Wanderwoodsss: Given [Diamond] * 20 to Wanderwoodsss]
+[16:00:56] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[16:00:56] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[16:02:16] [Server thread/INFO]: Azis813 has made the advancement [Into Fire]
+[16:04:44] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[16:04:44] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[16:04:59] [Server thread/INFO]: Wanderwoodsss issued server command: /give azis813 shield
+[16:04:59] [Server thread/INFO]: [Wanderwoodsss: Given [Shield] * 1 to Azis813]
+[16:05:59] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss bread 20
+[16:05:59] [Server thread/INFO]: [Wanderwoodsss: Given [Bread] * 20 to Wanderwoodsss]
+[16:09:00] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:09:00] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:09:59] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[16:09:59] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[16:13:46] [Server thread/INFO]: Azis813 issued server command: /give Azis813 log 64
+[16:13:46] [Server thread/INFO]: [Azis813: Given [Oak Wood] * 64 to Azis813]
+[16:16:29] [Server thread/INFO]: Azis813 lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[16:16:29] [Server thread/INFO]: Azis813 left the game
+[16:17:33] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:17:33] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:22:53] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:22:53] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:24:36] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:24:36] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:28:45] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss level
+[16:28:45] [Server thread/INFO]: [Wanderwoodsss: There is no such item with name minecraft:level]
+[16:29:10] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:29:10] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:29:58] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:29:58] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:32:22] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:32:22] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:32:58] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:32:58] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:33:09] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:33:09] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:33:19] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:33:19] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:33:29] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:33:29] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:33:34] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:33:34] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:33:35] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:33:35] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:34:15] [Server thread/WARN]: Wanderwoodsss moved too quickly! 10.445112954639626,-3.5508548213083486,-2.1777553600360307
+[16:34:59] [User Authenticator #4/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
+[16:34:59] [Server thread/INFO]: Azis813[/25.41.40.55:32836] logged in with entity id 41767 at ([world]3909.7406204912213, 63.0, 755.8120429841969)
+[16:36:48] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:36:48] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:37:15] [Server thread/INFO]: Azis813 issued server command: /
+[16:37:24] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:37:24] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:38:06] [Server thread/INFO]: Azis813 issued server command: /give Azis813 saddle 1
+[16:38:06] [Server thread/INFO]: [Azis813: Given [Saddle] * 1 to Azis813]
+[16:41:49] [Server thread/INFO]: Wanderwoodsss has made the advancement [Local Brewery]
+[16:42:12] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:42:12] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:43:00] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:43:00] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:44:42] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[16:44:42] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[16:45:22] [Server thread/INFO]: Azis813 has made the advancement [Local Brewery]
+[16:53:30] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:53:30] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:53:43] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:53:43] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:54:06] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[16:54:06] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[16:55:27] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[16:55:27] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[16:56:37] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[16:56:37] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[16:56:51] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss saddle
+[16:56:51] [Server thread/INFO]: [Wanderwoodsss: Given [Saddle] * 1 to Wanderwoodsss]
+[16:59:14] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:59:14] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[17:00:12] [Server thread/WARN]: Horse moved wrongly!
+[17:00:23] [Server thread/WARN]: Horse moved wrongly!
+[17:00:39] [Server thread/WARN]: Horse moved wrongly!
+[17:01:47] [Server thread/WARN]: Horse moved wrongly!
+[17:02:45] [Server thread/WARN]: Horse moved wrongly!
+[17:03:35] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[17:03:35] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[17:03:50] [Server thread/WARN]: Horse moved wrongly!
+[17:06:00] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:06:01] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:08:31] [Server thread/WARN]: Horse moved wrongly!
+[17:08:31] [Server thread/WARN]: Horse moved wrongly!
+[17:11:15] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:11:18] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:12:23] [Server thread/WARN]: Azis813 moved wrongly!
+[17:12:25] [Server thread/WARN]: Azis813 moved wrongly!
+[17:13:40] [Server thread/WARN]: Horse moved wrongly!
+[17:13:40] [Server thread/WARN]: Horse moved wrongly!
+[17:13:40] [Server thread/WARN]: Horse moved wrongly!
+[17:16:28] [Server thread/INFO]: Azis813 issued server command: /give Azis813 1
+[17:16:28] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:1]
+[17:16:41] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[17:16:41] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[17:16:55] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodss torch 64
+[17:16:55] [Server thread/INFO]: [Wanderwoodsss: Player 'wanderwoodss' cannot be found]
+[17:17:02] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss torch 64
+[17:17:02] [Server thread/INFO]: [Wanderwoodsss: Given [Torch] * 64 to Wanderwoodsss]
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.2546119039006953,0.0,19.824680084848296
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.1774388173062107,0.0,20.31362380878454
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.0998900315880746,1.0,20.802516811028454
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.0221402167589986,1.0,21.29138267310691
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.9442828352612196,1.0,21.780234013023346
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.86636789698332,1.0,22.269077582420323
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.7884221612202964,1.0,22.757916993967683
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.710459946336414,1.0,23.24675418073275
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.6324889138040817,1.0,23.735590177060658
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.5545131631233744,1.0,24.2244255364094
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.4765348878554505,1.0,24.713260554923636
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.398555261731417,1.0,25.202095391064177
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.320574912791926,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.2425941770879945,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.1646132344340003,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.086632181044479,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.0086510684031964,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.9306699240578382,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.8526887627476754,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.776342700502937,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.7417570291518132,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.7489905287202419,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.7794336562028548,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.822295792832847,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.8718030936488503,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.924866089329953,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.9798316664409867,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.0358152769422304,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.092343616812286,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.149163430507542,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.2061392060350045,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.263198433629441,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.3203023147607382,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.377430089110021,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.4592024539615522,1.3914694379829626,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.5056144791024053,1.399999976158142,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.538997976504106,1.3231679746627805,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.5607626325327146,1.1725465174951353,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.5721656055266067,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.5022673064659102,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.373543169241202,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.208080667890499,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.018243334661747,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.8162378479601102,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.6086178564473812,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.398116046038922,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.1860722317969703,1.0,25.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.9729585853765457,1.0,25.83783595806699
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.7593948390713194,1.0,26.164322525083207
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.5486595125175882,1.0,26.553131691586714
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.5075458194978637,1.0,26.97987500101135
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.5910463272875859,1.0,27.412743843094177
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.7445254652529911,1.0,27.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 0.9354487730015535,1.0,27.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.1478631356612823,2.0,27.625189533296634
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.3728599348132775,2.0,27.82659739798646
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.604705186492538,2.0,28.135710505537645
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 1.8345154304852258,2.0,28.50550610523078
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.0606612880901594,2.0,28.90908399715363
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.2795271827908437,2.0,29.3333215344187
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.494497714488716,2.0,29.7686136359971
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.7073839151089487,2.0,30.209820814535306
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.919154831725791,1.9231679985046384,30.65419303282124
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.9731298785845865,1.7725465413369932,30.912796856474415
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.9731298785845865,1.5510576895623984,31.164248862530258
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.9731298785845865,1.2615077906826428,31.409322877468185
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.9829158557768096,2.0,31.64870899976404
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.0895027456472235,2.0,32.070484603551904
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.244275185323204,1.9231679985046384,32.50451564039713
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse moved wrongly!
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.368236327417435,2.0,20.368910148437408
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.3861160974411177,2.0,20.440013232792808
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.395683205896603,2.0,20.478059075589044
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.498416647516933
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.50930957836954
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.51513816848683
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.518256930849475
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.518256930849475
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.518256930849475
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.518256930849475
+[17:18:14] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.400802374883824,2.0,20.518256930849475
+[17:18:15] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.6214722255908782,2.0,20.45290841742508
+[17:18:15] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 2.956518676945052,2.0,20.341198992315185
+[17:18:15] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.3501252513169675,2.0,20.197590530226535
+[17:18:15] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 3.76053289862557,3.0,20.006525397710902
+[17:18:15] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 4.126900912983729,3.0,19.727019186633697
+[17:18:15] [Server thread/WARN]: Horse (vehicle of Wanderwoodsss) moved too quickly! 4.406628245574211,3.0,19.363074865399994
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:18:15] [Server thread/WARN]: Horse moved wrongly!
+[17:26:02] [Server thread/INFO]: Wanderwoodsss issued server command: /give azis813 torch 64
+[17:26:02] [Server thread/INFO]: [Wanderwoodsss: Given [Torch] * 64 to Azis813]
+[17:27:06] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss bread 20
+[17:27:06] [Server thread/INFO]: [Wanderwoodsss: Given [Bread] * 20 to Wanderwoodsss]
+[17:33:56] [Server thread/WARN]: Horse moved wrongly!
+[17:33:56] [Server thread/WARN]: Horse moved wrongly!
+[17:33:56] [Server thread/WARN]: Horse moved wrongly!
+[17:33:56] [Server thread/WARN]: Horse moved wrongly!
+[17:34:17] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[17:34:17] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[17:34:56] [Server thread/WARN]: Horse moved wrongly!
+[17:34:56] [Server thread/WARN]: Horse moved wrongly!
+[17:37:24] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwooodsss arrow 64
+[17:37:24] [Server thread/INFO]: [Wanderwoodsss: Player 'wanderwooodsss' cannot be found]
+[17:37:28] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss arrow 64
+[17:37:28] [Server thread/INFO]: [Wanderwoodsss: Given [Arrow] * 64 to Wanderwoodsss]
+[17:39:18] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:39:21] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:39:23] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:39:25] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:39:27] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:39:30] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:42:02] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[17:42:02] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[17:44:26] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwooodsss torch 64
+[17:44:26] [Server thread/INFO]: [Wanderwoodsss: Player 'wanderwooodsss' cannot be found]
+[17:44:35] [Server thread/INFO]: Wanderwoodsss issued server command: /give wanderwoodsss torch 64
+[17:44:35] [Server thread/INFO]: [Wanderwoodsss: Given [Torch] * 64 to Wanderwoodsss]
+[17:51:03] [Server thread/INFO]: Azis813 issued server command: /give Azis813 1
+[17:51:03] [Server thread/INFO]: [Azis813: There is no such item with name minecraft:1]
+[17:51:13] [Server thread/INFO]: Azis813 issued server command: /give Azis813 torch 64
+[17:51:13] [Server thread/INFO]: [Azis813: Given [Torch] * 64 to Azis813]
+[17:53:47] [Server thread/INFO]: Azis813 lost connection: Disconnected
+[17:53:47] [Server thread/INFO]: Azis813 left the game
+[17:53:49] [Server thread/INFO]: Wanderwoodsss lost connection: Disconnected
+[17:53:49] [Server thread/INFO]: Wanderwoodsss left the game
+[17:54:15] [Thread-3/INFO]: Stopping server
+[17:54:15] [Thread-3/INFO]: Saving players
