@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2018-08-04 14:07:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2018-07-17 21:10:55 +0300"
@@ -832,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-08-04 13:51:01 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2018-07-17 13:25:01 +0300"
@@ -1042,6 +1054,7 @@
       "blaze": "2018-07-25 16:03:05 +0300",
       "zombie": "2018-07-17 12:50:10 +0300",
       "cave_spider": "2018-07-22 14:13:20 +0300",
+      "witch": "2018-08-03 20:53:02 +0300",
       "spider": "2018-07-17 14:01:37 +0300",
       "creeper": "2018-07-17 12:53:32 +0300"
     },
