@@ -455,6 +455,7 @@
       "rotten_flesh": "2018-07-17 19:50:07 +0300",
       "cooked_rabbit": "2018-07-17 13:55:56 +0300",
       "cooked_chicken": "2018-07-19 17:55:19 +0300",
+      "enchanted_golden_apple": "2018-08-13 16:59:58 +0300",
       "carrot": "2018-07-18 14:04:04 +0300"
     },
     "done": false
@@ -1056,7 +1057,8 @@
       "cave_spider": "2018-07-22 14:13:20 +0300",
       "witch": "2018-08-03 20:53:02 +0300",
       "spider": "2018-07-17 14:01:37 +0300",
-      "creeper": "2018-07-17 12:53:32 +0300"
+      "creeper": "2018-07-17 12:53:32 +0300",
+      "enderman": "2018-08-13 17:01:17 +0300"
     },
     "done": false
   },
@@ -1075,6 +1077,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-07-24 09:26:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2018-08-13 16:53:08 +0300"
     },
     "done": true
   },
@@ -1111,6 +1119,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2018-07-17 16:46:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2018-08-13 16:53:08 +0300"
     },
     "done": true
   },
@@ -1195,6 +1209,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2018-07-17 13:54:03 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-08-13 16:57:54 +0300"
     },
     "done": true
   },
@@ -1300,6 +1320,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-08-13 16:58:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2018-07-17 17:41:38 +0300"
@@ -1381,6 +1407,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-07-26 20:27:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-08-13 16:58:51 +0300"
     },
     "done": true
   },
@@ -2100,6 +2132,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2018-08-03 12:03:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-08-13 16:58:33 +0300"
     },
     "done": true
   },

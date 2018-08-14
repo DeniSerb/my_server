@@ -1,116 +1,238 @@
-[19:59:38] [Server thread/INFO]: Loading properties
-[19:59:38] [Server thread/INFO]: Default game type: SURVIVAL
-[19:59:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[19:59:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:59:38] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:59:38] [Server thread/INFO]: Debug logging is disabled
-[19:59:38] [Server thread/INFO]: Generating keypair
-[19:59:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:59:39] [Server thread/INFO]: Using epoll channel type
-[19:59:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:59:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:59:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:59:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:59:39] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[19:59:39] [Server thread/INFO]: Preparing level "world"
-[19:59:39] [Server thread/INFO]: -------- World Settings For [world] --------
-[19:59:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:59:39] [Server thread/INFO]: Mob Spawn Range: 4
-[19:59:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[19:59:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:59:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:59:39] [Server thread/INFO]: Random Lighting Updates: false
-[19:59:39] [Server thread/INFO]: Structure Info Saving: true
-[19:59:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[19:59:39] [Server thread/INFO]: Max TNT Explosions: 100
-[19:59:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:59:39] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:59:39] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:59:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:59:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:59:39] [Server thread/INFO]: View Distance: 10
-[19:59:39] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:59:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:59:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:59:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[19:59:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Mob Spawn Range: 4
-[19:59:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[19:59:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:59:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:59:40] [Server thread/INFO]: Random Lighting Updates: false
-[19:59:40] [Server thread/INFO]: Structure Info Saving: true
-[19:59:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[19:59:40] [Server thread/INFO]: Max TNT Explosions: 100
-[19:59:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:59:40] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:59:40] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:59:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:59:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:59:40] [Server thread/INFO]: View Distance: 10
-[19:59:40] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:59:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:59:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:59:40] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[19:59:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:59:40] [Server thread/INFO]: Mob Spawn Range: 4
-[19:59:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[19:59:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:59:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:59:40] [Server thread/INFO]: Random Lighting Updates: false
-[19:59:40] [Server thread/INFO]: Structure Info Saving: true
-[19:59:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[19:59:40] [Server thread/INFO]: Max TNT Explosions: 100
-[19:59:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:59:40] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:59:40] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:59:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[19:59:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:59:40] [Server thread/INFO]: View Distance: 10
-[19:59:40] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:59:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:59:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:59:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1053390231284090450)
-[19:59:41] [Server thread/INFO]: Preparing spawn area: 10%
-[19:59:42] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1053390231284090450)
-[19:59:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1053390231284090450)
-[19:59:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:59:43] [Server thread/INFO]: Done (4.453s)! For help, type "help" or "?"
-[20:05:06] [User Authenticator #1/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
-[20:05:07] [Server thread/INFO]: Azis813[/25.41.40.55:49008] logged in with entity id 298 at ([world]3781.3989706032744, 95.0, 702.7453128090403)
-[20:05:20] [Server thread/INFO]: Azis813 issued server command: /gamemode 2
-[20:05:20] [Server thread/INFO]: [Azis813: Set own game mode to Adventure Mode]
-[20:05:28] [Server thread/INFO]: Azis813 issued server command: /gamemode 0
-[20:05:28] [Server thread/INFO]: [Azis813: Set own game mode to Survival Mode]
-[20:05:33] [Server thread/INFO]: Azis813 issued server command: /gamemode 1
-[20:05:33] [Server thread/INFO]: [Azis813: Set own game mode to Creative Mode]
-[21:08:24] [Server thread/INFO]: Azis813 lost connection: Disconnected
-[21:08:24] [Server thread/INFO]: Azis813 left the game
-[21:08:46] [Thread-3/INFO]: Stopping server
+[15:55:23] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:55:23] [Server thread/INFO]: Loading properties
+[15:55:23] [Server thread/INFO]: Default game type: SURVIVAL
+[15:55:25] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-642f6d2-57ab4cf (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:55:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:55:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:55:25] [Server thread/INFO]: Debug logging is disabled
+[15:55:25] [Server thread/INFO]: Generating keypair
+[15:55:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:55:28] [Server thread/INFO]: Using epoll channel type
+[15:55:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:55:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:55:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:55:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:55:29] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:55:29] [Server thread/INFO]: Preparing level "world"
+[15:55:29] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:55:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:55:29] [Server thread/INFO]: Mob Spawn Range: 4
+[15:55:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:55:29] [Server thread/INFO]: Max TNT Explosions: 100
+[15:55:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:55:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:55:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:55:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:55:29] [Server thread/INFO]: Random Lighting Updates: false
+[15:55:29] [Server thread/INFO]: Structure Info Saving: true
+[15:55:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:55:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:55:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:55:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:55:29] [Server thread/INFO]: View Distance: 10
+[15:55:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:55:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:55:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:55:30] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:55:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Mob Spawn Range: 4
+[15:55:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:55:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:55:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:55:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:55:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:55:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:55:30] [Server thread/INFO]: Random Lighting Updates: false
+[15:55:30] [Server thread/INFO]: Structure Info Saving: true
+[15:55:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:55:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:55:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:55:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:55:30] [Server thread/INFO]: View Distance: 10
+[15:55:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:55:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:55:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:55:30] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:55:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:55:30] [Server thread/INFO]: Mob Spawn Range: 4
+[15:55:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:55:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:55:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:55:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:55:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:55:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:55:30] [Server thread/INFO]: Random Lighting Updates: false
+[15:55:30] [Server thread/INFO]: Structure Info Saving: true
+[15:55:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:55:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:55:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:55:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:55:30] [Server thread/INFO]: View Distance: 10
+[15:55:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:55:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:55:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:55:30] [Server thread/INFO]: Preparing start region for level 0 (Seed: 1053390231284090450)
+[15:55:31] [Server thread/INFO]: Preparing spawn area: 0%
+[15:55:32] [Server thread/INFO]: Preparing spawn area: 1%
+[15:55:33] [Server thread/INFO]: Preparing spawn area: 19%
+[15:55:34] [Server thread/INFO]: Preparing spawn area: 42%
+[15:55:35] [Server thread/INFO]: Preparing spawn area: 67%
+[15:55:36] [Server thread/INFO]: Preparing start region for level 1 (Seed: 1053390231284090450)
+[15:55:37] [Server thread/INFO]: Preparing spawn area: 6%
+[15:55:38] [Server thread/INFO]: Preparing spawn area: 15%
+[15:55:39] [Server thread/INFO]: Preparing spawn area: 31%
+[15:55:40] [Server thread/INFO]: Preparing spawn area: 48%
+[15:55:41] [Server thread/INFO]: Preparing spawn area: 63%
+[15:55:42] [Server thread/INFO]: Preparing spawn area: 94%
+[15:55:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: 1053390231284090450)
+[15:55:44] [Server thread/INFO]: Preparing spawn area: 58%
+[15:55:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:55:44] [Server thread/INFO]: Done (15.615s)! For help, type "help" or "?"
+[15:56:32] [User Authenticator #1/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
+[15:56:32] [Server thread/INFO]: Azis813[/25.41.40.55:58036] logged in with entity id 239 at ([world]4869.663213529026, 20.7125, 802.5)
+[16:03:37] [User Authenticator #2/INFO]: UUID of player Wanderwoodsss is b4318916-4499-373d-948c-1c19c659f3c4
+[16:03:38] [Server thread/INFO]: Wanderwoodsss[/25.41.1.133:33108] logged in with entity id 3651 at ([world]3733.8195564660036, 80.85554148554968, 679.7935083454079)
+[16:03:58] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:03:58] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:04:59] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[16:04:59] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[16:05:25] [Server thread/INFO]: Azis813 lost connection: Disconnected
+[16:05:25] [Server thread/INFO]: Azis813 left the game
+[16:10:45] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:10:45] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:11:36] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:11:36] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:11:40] [Server thread/INFO]: Wanderwoodsss issued server command: /weather clear
+[16:11:40] [Server thread/INFO]: [Wanderwoodsss: Changing to clear weather]
+[16:13:55] [Server thread/WARN]: Horse moved wrongly!
+[16:13:55] [Server thread/WARN]: Horse moved wrongly!
+[16:13:56] [Server thread/WARN]: Horse moved wrongly!
+[16:15:06] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:15:06] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:19:35] [User Authenticator #3/INFO]: UUID of player Azis813 is 7fcae7f3-855f-3d75-87d8-b904e5ef535d
+[16:19:35] [Server thread/INFO]: Azis813[/25.41.40.55:58046] logged in with entity id 15858 at ([world]6055.295453547885, 64.0, 800.2983066685874)
+[16:21:11] [Server thread/INFO]: Wanderwoodsss issued server command: /weather clear
+[16:21:11] [Server thread/INFO]: [Wanderwoodsss: Changing to clear weather]
+[16:21:13] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:21:13] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:27:35] [Server thread/INFO]: Wanderwoodsss issued server command: /weather clear
+[16:27:35] [Server thread/INFO]: [Wanderwoodsss: Changing to clear weather]
+[16:27:37] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:27:37] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:37:01] [Server thread/INFO]: Wanderwoodsss issued server command: /weather clear
+[16:37:01] [Server thread/INFO]: [Wanderwoodsss: Changing to clear weather]
+[16:37:03] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:37:03] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:46:24] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 0
+[16:46:24] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Survival Mode]
+[16:46:46] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 1
+[16:46:46] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Creative Mode]
+[16:47:10] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:47:10] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:47:14] [Server thread/INFO]: Wanderwoodsss issued server command: /weather clear
+[16:47:14] [Server thread/INFO]: [Wanderwoodsss: Changing to clear weather]
+[16:50:05] [Server thread/INFO]: Azis813 issued server command: /gamemode 1
+[16:50:05] [Server thread/INFO]: [Azis813: Set own game mode to Creative Mode]
+[16:50:08] [Server thread/INFO]: Azis813 issued server command: /gamemode 0
+[16:50:08] [Server thread/INFO]: [Azis813: Set own game mode to Survival Mode]
+[16:52:07] [Server thread/INFO]: Azis813 issued server command: /gamemode 1
+[16:52:07] [Server thread/INFO]: [Azis813: Set own game mode to Creative Mode]
+[16:52:34] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 3735.376 101.00000 634.775
+[16:52:34] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 3735.376, 101.0, 634.775]
+[16:52:39] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss 2987.926 64.0 791.485
+[16:52:39] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to 2987.926, 64.0, 791.485]
+[16:52:49] [Server thread/INFO]: Wanderwoodsss issued server command: /tp azis813 wanderwoodsss
+[16:52:49] [Server thread/INFO]: [Wanderwoodsss: Teleported Azis813 to Wanderwoodsss]
+[16:54:44] [Server thread/WARN]: Wanderwoodsss moved too quickly! 2.1038834406831484,-6.562487575807083,-8.415945171977
+[16:54:57] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[16:54:57] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[16:55:49] [Server thread/INFO]: Wanderwoodsss issued server command: /time set day
+[16:55:49] [Server thread/INFO]: [Wanderwoodsss: Set the time to 1000]
+[16:55:51] [Server thread/INFO]: Wanderwoodsss issued server command: /weather clear
+[16:55:51] [Server thread/INFO]: [Wanderwoodsss: Changing to clear weather]
+[16:57:38] [Server thread/INFO]: Azis813 issued server command: /gamemode 1
+[16:57:38] [Server thread/INFO]: [Azis813: Set own game mode to Creative Mode]
+[16:57:44] [Server thread/INFO]: Azis813 issued server command: /gamemode 0
+[16:57:44] [Server thread/INFO]: [Azis813: Set own game mode to Survival Mode]
+[16:57:46] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 0
+[16:57:46] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Survival Mode]
+[16:57:54] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 1
+[16:57:54] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Creative Mode]
+[16:57:54] [Server thread/INFO]: Azis813 has made the advancement [Eye Spy]
+[16:58:16] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 0
+[16:58:16] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Survival Mode]
+[16:58:33] [Server thread/INFO]: Azis813 has made the advancement [The End?]
+[16:58:33] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:58:34] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[16:58:34] [Server thread/INFO]: Found that there's a dragon still alive (EntityEnderDragon['Ender Dragon'/36840, l='world_the_end', x=0.20, y=83.18, z=3.18])
+[16:58:34] [Server thread/INFO]: But we didn't have a portal, let's remove it.
+[16:59:01] [Server thread/INFO]: Azis813 issued server command: /gamemode 1
+[16:59:01] [Server thread/INFO]: [Azis813: Set own game mode to Creative Mode]
+[16:59:23] [Server thread/INFO]: Azis813 issued server command: /gamemode 0
+[16:59:23] [Server thread/INFO]: [Azis813: Set own game mode to Survival Mode]
+[17:00:16] [Server thread/WARN]: Wanderwoodsss moved wrongly!
+[17:02:35] [Server thread/INFO]: Azis813 issued server command: /give Azis813 dirt 64
+[17:02:35] [Server thread/INFO]: [Azis813: Given [Dirt] * 64 to Azis813]
+[17:05:26] [Server thread/INFO]: Wanderwoodsss fell from a high place
+[17:06:02] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemod 1
+[17:06:08] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemod 1
+[17:06:17] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[17:06:17] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[17:07:46] [Server thread/INFO]: Wanderwoodsss issued server command: /tp wanderwoodsss azis813
+[17:07:46] [Server thread/INFO]: [Wanderwoodsss: Teleported Wanderwoodsss to Azis813]
+[17:09:40] [Server thread/INFO]: Azis813 fell from a high place
+[17:10:05] [Server thread/INFO]: Azis813 issued server command: /tp Azis813 Wanderwoodsss
+[17:10:05] [Server thread/INFO]: [Azis813: Teleported Azis813 to Wanderwoodsss]
+[17:10:17] [Server thread/INFO]: Wanderwoodsss has made the advancement [Free the End]
+[17:11:11] [Server thread/INFO]: Azis813 issued server command: /gamemode 0
+[17:11:11] [Server thread/INFO]: [Azis813: Set own game mode to Survival Mode]
+[17:11:14] [Server thread/INFO]: Azis813 was slain by Enderman
+[17:11:21] [Server thread/INFO]: Azis813 issued server command: /tp Azis813 Wanderwoodsss
+[17:11:21] [Server thread/INFO]: [Azis813: Teleported Azis813 to Wanderwoodsss]
+[17:11:26] [Server thread/INFO]: Azis813 issued server command: /gamemode 1
+[17:11:26] [Server thread/INFO]: [Azis813: Set own game mode to Creative Mode]
+[17:11:31] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemod 1
+[17:11:37] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 1
+[17:11:37] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Creative Mode]
+[17:12:03] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 0
+[17:12:03] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Survival Mode]
+[17:12:08] [Server thread/INFO]: Azis813 issued server command: /gamemode 0
+[17:12:08] [Server thread/INFO]: [Azis813: Set own game mode to Survival Mode]
+[17:13:00] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 1
+[17:13:00] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Creative Mode]
+[17:13:28] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 0
+[17:13:28] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Survival Mode]
+[17:14:56] [Server thread/INFO]: Azis813 lost connection: Disconnected
+[17:14:56] [Server thread/INFO]: Azis813 left the game
+[17:15:01] [Server thread/INFO]: Wanderwoodsss issued server command: /gamemode 1
+[17:15:01] [Server thread/INFO]: [Wanderwoodsss: Set own game mode to Creative Mode]
+[17:15:16] [Server thread/INFO]: Wanderwoodsss lost connection: Disconnected
+[17:15:16] [Server thread/INFO]: Wanderwoodsss left the game
+[17:15:30] [Thread-3/INFO]: Stopping server
